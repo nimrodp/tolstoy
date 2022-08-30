@@ -1,0 +1,47 @@
+{
+  "name": "Tolstoy",
+  "logo": "",
+  "favicon": "",
+  "colors": {
+    "primary": "#3b83f4"
+  },
+  "topbarLinks": [],
+  "topbarCtaButton": {
+    "name": "Get Tolstoy for free",
+    "url": "https://app.gotolstoy.com/signup"
+  },
+  "anchors": [],
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["welcome"]
+    },
+    {
+      "group": "JavaScript SDK",
+      "pages": [
+        "javascript-sdk/installation",
+        "javascript-sdk/configuration",
+        "javascript-sdk/identify",
+        "javascript-sdk/events"
+      ]
+    },
+    {
+      "group": "API Reference",
+      "pages": [
+        "api-reference/get-me",
+        "api-reference/upload-video",
+        "api-reference/list-webhooks",
+        "api-reference/add-webhook",
+        "api-reference/delete-webhook",
+        "api-reference/create-project",
+        "api-reference/create-step",
+        "api-reference/get-project",
+        "api-reference/delete-project",
+        "api-reference/list-projects",
+        "api-reference/update-project",
+        "api-reference/update-step",
+        "api-reference/delete-step"
+      ]
+    }
+  ]
+}
