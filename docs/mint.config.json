@@ -1,7 +1,10 @@
 {
   "name": "Tolstoy",
-  "logo": "",
-  "favicon": "",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#3b83f4"
   },
