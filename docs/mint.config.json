@@ -8,7 +8,9 @@
   "colors": {
     "primary": "#3b83f4"
   },
-  "apiBase": "https://api.gotolstoy.com",
+  "api": {
+    "baseUrl": "https://api.gotolstoy.com"
+  },
   "topbarLinks": [],
   "topbarCtaButton": {
     "name": "Get Tolstoy for free",
