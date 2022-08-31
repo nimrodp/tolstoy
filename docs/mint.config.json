@@ -6,7 +6,11 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#3b83f4"
+    "primary": "#FA536E",
+    "light": "#FD90A2",
+    "dark": "#CA2A53",
+    "ultraLight": "#FBDAE0",
+    "ultraDark": "#990038"
   },
   "api": {
     "baseUrl": "https://api.gotolstoy.com"
