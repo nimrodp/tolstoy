@@ -21,12 +21,12 @@
   },
   "topbarLinks": [
     {
-      "name": "Sign in",
-      "url": "https://app.gotolstoy.com/login"
-    },
-    {
       "name": "Contact sales",
       "url": "https://www.gotolstoy.com/contact-sales"
+    },
+    {
+      "name": "Sign in",
+      "url": "https://app.gotolstoy.com/login"
     }
   ],
   "topbarCtaButton": {
