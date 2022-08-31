@@ -13,7 +13,11 @@
     "ultraDark": "#090a0b"
   },
   "api": {
-    "baseUrl": "https://api.gotolstoy.com"
+    "baseUrl": "https://api.gotolstoy.com",
+    "auth": {
+      "method": "key",
+      "name": "Authentication"
+    }
   },
   "topbarLinks": [],
   "topbarCtaButton": {
