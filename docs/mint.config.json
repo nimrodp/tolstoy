@@ -8,9 +8,9 @@
   "colors": {
     "primary": "#FA536E",
     "light": "#FD90A2",
-    "dark": "#CA2A53",
+    "dark": "#2A39D5",
     "ultraLight": "#FBDAE0",
-    "ultraDark": "#990038"
+    "ultraDark": "#090a0b"
   },
   "api": {
     "baseUrl": "https://api.gotolstoy.com"
